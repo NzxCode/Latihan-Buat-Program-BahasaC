@@ -1,43 +1,36 @@
-# 🧠 40 Fundamental C Programming Projects
+# 🧠 C Programming Projects Collection
 
-Repository ini berisi kumpulan **5 program dasar bahasa C** yang dirancang untuk melatih:
+Repository ini berisi kumpulan project bahasa C yang dirancang untuk melatih:
 
 - Logika pemrograman
 - Struktur program (modular programming)
 - Pointer & memory management
 - Dynamic array
 - Rekursi
+- Problem solving berbasis real-case
 
-Project ini juga menjadi dasar untuk mempersiapkan **competitive programming**.
+Project ini juga menjadi dasar untuk mempersiapkan **competitive programming** dan pengembangan software dasar.
 
 ---
 
-## 📌 Daftar Program
+## 📌 Fundamental Projects
 
 ### 1. 🚗 Biaya Parkir
-Program untuk menghitung biaya parkir berdasarkan:
-- Jenis kendaraan (mobil, motor, truk)
-- Lama parkir
-- Diskon berdasarkan waktu
+Menghitung biaya parkir berdasarkan jenis kendaraan dan lama parkir.
 
 **Konsep:**
 - If-else
 - Function
-- Array
 - Looping
 
 ---
 
 ### 2. 📊 Statistik Nilai Siswa
-Menghitung:
-- Nilai maksimum
-- Total nilai
-- Rata-rata
+Menghitung nilai maksimum, total, dan rata-rata.
 
 **Konsep:**
 - Array
 - Function
-- Looping
 - Data processing
 
 ---
@@ -48,35 +41,74 @@ Menukar dua nilai menggunakan pointer.
 **Konsep:**
 - Pointer
 - Pass by address
-- Memory reference
 
 ---
 
 ### 4. 📦 Array Dinamis Interaktif
-Menggandakan ukuran array dengan:
-- Input user
-- Alokasi memori (`malloc`)
-- Pengisian nilai tambahan
+Menggandakan ukuran array menggunakan `malloc`.
 
 **Konsep:**
 - Dynamic memory allocation
 - Pointer
-- Array manipulation
 
 ---
 
 ### 5. 💸 Pengeluaran Harian (Rekursif)
-Menghitung:
-- Total pengeluaran
-- Pengeluaran terbesar
-- Rata-rata
-
-Menggunakan **rekursi**.
+Menghitung total dan maksimum pengeluaran menggunakan rekursi.
 
 **Konsep:**
 - Recursion
-- Divide and conquer thinking
 - Array processing
+
+---
+
+## 🚀 Real-Case Projects (Anti Mainstream)
+
+### 6. 📅 Habit Tracker CLI
+Melacak kebiasaan harian seperti belajar, olahraga, dan coding.
+
+**Fitur:**
+- Tambah habit
+- Tandai selesai
+- Simpan ke file
+
+---
+
+### 7. 💸 Expense Analyzer
+Menganalisis pengeluaran berdasarkan kategori.
+
+**Fitur:**
+- Total pengeluaran
+- Kategori terbesar
+- Deteksi over-budget
+
+---
+
+### 8. 🧠 Recommendation System
+Memberikan rekomendasi aktivitas berdasarkan mood dan energi.
+
+**Fitur:**
+- Decision-based system
+- Personalized suggestion
+
+---
+
+### 9. 📦 Inventory Tracker
+Mengelola stok barang sehari-hari.
+
+**Fitur:**
+- Tambah barang
+- Update stok
+- Notifikasi hampir habis
+
+---
+
+### 10. ⏱️ Study Timer Tracker
+Mencatat sesi belajar dan total waktu belajar.
+
+**Fitur:**
+- Tracking waktu
+- Laporan harian
 
 ---
 
